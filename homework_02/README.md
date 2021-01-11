@@ -1,6 +1,6 @@
 ### Домашнее задание "Классы"
 #### Задача:
-- скопируйте папку `homework_02` для этой домашки (ПАМЯТКА ПО ВЫПОЛНЕНИЮ ДОМАШЕК)
+- скопируйте папку `homework_02` для этой домашки (Памятка: https://github.com/OtusTeam/BasePython/tree/homeworks)
 - в модуле `exceptions` объявите следующие исключения:
     - LowFuelError
     - NotEnoughFuel
