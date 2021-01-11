@@ -1,9 +1,9 @@
-name: Python package
+name: Run tests for homework
 
 on: [push]
 
 jobs:
-  build:
+  homework-tests:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
