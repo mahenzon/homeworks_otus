@@ -55,8 +55,8 @@ def is_prime(n) -> bool:
 
 
 FILTERS_MAP = {
-    ODD: lambda n: n % 2 == 0,
-    EVEN: lambda n: n % 2 != 0,
+    ODD: lambda n: n % 2 != 0,
+    EVEN: lambda n: n % 2 == 0,
     PRIME: is_prime,
 }
 
