@@ -13,3 +13,4 @@ toml==0.10.2
 certifi==2020.12.5
 requests==2.25.1
 urllib3==1.26.2
+pytest-asyncio-0.15.1
